@@ -3,7 +3,7 @@
 * avocado
 * lemon
 * salt
-* lime
+* lemon
 * cilantro
 ## Instructions
 * mix it
