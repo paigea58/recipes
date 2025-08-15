@@ -7,3 +7,4 @@
 * cilantro
 ## Instructions
 * mix it
+* cut cilantro
